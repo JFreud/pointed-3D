@@ -1,0 +1,25 @@
+ident
+torus
+100 400 0 5 50
+torus
+175 350 50 5 50
+torus
+200 400 0 5 50
+torus
+275 350 50 5 50
+torus
+300 400 0 5 50
+rotate
+x 90
+move
+-100 450 0
+box
+80 400 200 300 100 100
+rotate
+y 20
+rotate
+x 20
+apply
+display
+save
+pic.png
